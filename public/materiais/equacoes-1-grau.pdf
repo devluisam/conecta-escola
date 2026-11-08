@@ -1,0 +1,82 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 653 >>
+stream
+0.027 0.114 0.227 rg 0 792 612 -70 re f
+1 1 1 rg BT /F2 18 Tf 50 750 Td (Equações do 1º grau) Tj ET
+0.6 0.75 0.95 rg BT /F1 10 Tf 50 733 Td (Matemática · resumo) Tj ET
+0.027 0.114 0.227 rg BT /F2 14 Tf 50 690 Td (O que é uma equação) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 664 Td (Equação é uma igualdade com pelo menos um valor desconhecido \(incógnita\). Exemplo: 2x +) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 648 Td (6 = 14.) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 632 Td (Resolver é encontrar o valor que torna a igualdade verdadeira.) Tj ET
+0.45 0.5 0.6 rg BT /F1 8 Tf 50 40 Td (Conecta Escola - material fictício de demonstração - página 1 de 3) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 659 >>
+stream
+0.027 0.114 0.227 rg 0 792 612 -70 re f
+1 1 1 rg BT /F2 18 Tf 50 750 Td (Equações do 1º grau) Tj ET
+0.6 0.75 0.95 rg BT /F1 10 Tf 50 733 Td (Matemática · resumo) Tj ET
+0.027 0.114 0.227 rg BT /F2 14 Tf 50 690 Td (Exemplo resolvido) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 664 Td (2x + 6 = 14) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 648 Td (2x = 14 - 6) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 632 Td (2x = 8) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 616 Td (x = 4) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 600 Td (Verificação: 2 · 4 + 6 = 14. Correto!) Tj ET
+0.45 0.5 0.6 rg BT /F1 8 Tf 50 40 Td (Conecta Escola - material fictício de demonstração - página 2 de 3) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+9 0 obj
+<< /Length 633 >>
+stream
+0.027 0.114 0.227 rg 0 792 612 -70 re f
+1 1 1 rg BT /F2 18 Tf 50 750 Td (Equações do 1º grau) Tj ET
+0.6 0.75 0.95 rg BT /F1 10 Tf 50 733 Td (Matemática · resumo) Tj ET
+0.027 0.114 0.227 rg BT /F2 14 Tf 50 690 Td (Exercícios) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 664 Td (1\) 3x - 9 = 0) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 648 Td (2\) x/4 = 7) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 632 Td (3\) 5x + 2 = 3x + 10) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 616 Td (4\) O dobro de um número mais 5 é 25. Qual é o número?) Tj ET
+0.45 0.5 0.6 rg BT /F1 8 Tf 50 40 Td (Conecta Escola - material fictício de demonstração - página 3 de 3) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 9 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000128 00000 n 
+0000000225 00000 n 
+0000000327 00000 n 
+0000001031 00000 n 
+0000001167 00000 n 
+0000001877 00000 n 
+0000002013 00000 n 
+0000002697 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+2834
+%%EOF

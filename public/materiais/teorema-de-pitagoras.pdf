@@ -1,0 +1,77 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 554 >>
+stream
+0.027 0.114 0.227 rg 0 792 612 -70 re f
+1 1 1 rg BT /F2 18 Tf 50 750 Td (Teorema de Pitágoras) Tj ET
+0.6 0.75 0.95 rg BT /F1 10 Tf 50 733 Td (Matemática · slides da aula) Tj ET
+0.027 0.114 0.227 rg BT /F2 14 Tf 50 690 Td (Enunciado) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 664 Td (Em todo triângulo retângulo, o quadrado da hipotenusa é igual à soma dos quadrados dos) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 648 Td (catetos: a² = b² + c².) Tj ET
+0.45 0.5 0.6 rg BT /F1 8 Tf 50 40 Td (Conecta Escola - material fictício de demonstração - página 1 de 3) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 631 >>
+stream
+0.027 0.114 0.227 rg 0 792 612 -70 re f
+1 1 1 rg BT /F2 18 Tf 50 750 Td (Teorema de Pitágoras) Tj ET
+0.6 0.75 0.95 rg BT /F1 10 Tf 50 733 Td (Matemática · slides da aula) Tj ET
+0.027 0.114 0.227 rg BT /F2 14 Tf 50 690 Td (Aplicação) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 664 Td (Uma escada de 5 m está apoiada em uma parede, com o pé a 3 m da parede. A que altura ela) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 648 Td (toca a parede?) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 632 Td (5² = 3² + h² -> h² = 16 -> h = 4 m.) Tj ET
+0.45 0.5 0.6 rg BT /F1 8 Tf 50 40 Td (Conecta Escola - material fictício de demonstração - página 2 de 3) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+9 0 obj
+<< /Length 549 >>
+stream
+0.027 0.114 0.227 rg 0 792 612 -70 re f
+1 1 1 rg BT /F2 18 Tf 50 750 Td (Teorema de Pitágoras) Tj ET
+0.6 0.75 0.95 rg BT /F1 10 Tf 50 733 Td (Matemática · slides da aula) Tj ET
+0.027 0.114 0.227 rg BT /F2 14 Tf 50 690 Td (No cotidiano) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 664 Td (Construção civil, mapas, telas de TV e celulares \(medidas em polegadas da diagonal\) usam) Tj ET
+0.15 0.2 0.3 rg BT /F1 11 Tf 50 648 Td (o teorema.) Tj ET
+0.45 0.5 0.6 rg BT /F1 8 Tf 50 40 Td (Conecta Escola - material fictício de demonstração - página 3 de 3) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 9 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000128 00000 n 
+0000000225 00000 n 
+0000000327 00000 n 
+0000000932 00000 n 
+0000001068 00000 n 
+0000001750 00000 n 
+0000001886 00000 n 
+0000002486 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+2623
+%%EOF
