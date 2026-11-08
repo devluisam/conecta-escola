@@ -69,10 +69,11 @@ export const NAV: Record<Role, { items: NavItem[]; bottom: string[] }> = {
       { label: "Vínculos", href: "/admin/vinculos", icon: Link2 },
       { label: "Calendário Escolar", href: "/admin/calendario", icon: CalendarDays, short: "Calendário" },
       { label: "Avisos", href: "/admin/avisos", icon: Megaphone },
+      { label: "Comunicação", href: "/admin/comunicacao", icon: MessageCircle, badge: "messages" },
       { label: "Permissões", href: "/admin/permissoes", icon: ShieldCheck },
       { label: "Meu Perfil", href: "/admin/perfil", icon: UserRound, short: "Perfil" },
     ],
-    bottom: ["/admin", "/admin/usuarios", "/admin/turmas", "/admin/avisos", "/admin/perfil"],
+    bottom: ["/admin", "/admin/usuarios", "/admin/turmas", "/admin/comunicacao", "/admin/perfil"],
   },
 }
 

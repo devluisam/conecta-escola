@@ -53,7 +53,7 @@ Também é possível entrar pelo formulário:
 
 **Professor** — painel (turmas, alunos, atividades, entregas a corrigir, agenda, mensagens) · turmas com lista de alunos e desempenho · cadastro/edição de atividades (rascunho ou publicada, anexo) · correção com nota e comentário · lançamento de notas em grade por bimestre · publicação de materiais · agenda das turmas · comunicados · criação de desafios.
 
-**Administração** — indicadores gerais · cadastro de alunos, professores e gestão · ativar/desativar acesso · turmas · disciplinas · vínculos professor × turma × disciplina · calendário escolar · avisos institucionais · matriz de permissões e configurações da escola.
+**Administração** — indicadores gerais · cadastro de alunos, professores e gestão · ativar/desativar acesso · turmas · disciplinas · vínculos professor × turma × disciplina · calendário escolar · avisos institucionais · mensagens com alunos e professores · matriz de permissões e configurações da escola.
 
 **Transversal** — notificações (sino), mensagens não lidas, estados de carregamento, vazios e de erro, toasts de sucesso/erro, layout responsivo (menu lateral no desktop, navegação inferior + menu no celular), acessibilidade (rótulos, foco visível, navegação por teclado, "pular para o conteúdo", descrição textual dos gráficos, `prefers-reduced-motion`).
 

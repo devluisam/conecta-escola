@@ -23,7 +23,7 @@ export function Providers({ children }: { children: React.ReactNode }) {
     <QueryClientProvider client={client}>
       <TooltipProvider delayDuration={300}>
         {children}
-        <Toaster position="top-right" richColors closeButton />
+        <Toaster position="top-right" richColors closeButton containerAriaLabel="Notificações" toastOptions={{ closeButtonAriaLabel: "Fechar aviso" }} />
       </TooltipProvider>
     </QueryClientProvider>
   )

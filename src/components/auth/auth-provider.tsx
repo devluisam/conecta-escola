@@ -19,14 +19,14 @@ export const homeFor = (role: Role) => `/${role}`
 
 export function AuthProvider({ children }: { children: React.ReactNode }) {
   const qc = useQueryClient()
-  const router = useRouter()
   const { data, isLoading } = useRepoQuery(["me"], (r) => r.getCurrentUser())
 
   const signOut = useCallback(async () => {
     await getRepository().signOut()
     qc.clear()
-    router.replace("/login")
-  }, [qc, router])
+    // Navegação completa: descarta o estado guardado das telas (inclusive o formulário de login) e o cache do roteador.
+    window.location.replace("/login")
+  }, [qc])
 
   const value = useMemo(() => ({ user: data ?? null, loading: isLoading, signOut }), [data, isLoading, signOut])
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>

@@ -165,7 +165,14 @@ export function LibraryView({ title, description, canPublish = false }: { title:
       )}
 
       <Dialog open={Boolean(viewing)} onOpenChange={(o) => !o && setViewing(null)}>
-        <DialogContent className="flex max-h-[94dvh] flex-col sm:max-w-3xl">
+        <DialogContent
+          className="flex max-h-[94dvh] flex-col sm:max-w-3xl"
+          // Sem isto o foco cai dentro do iframe e o Esc deixa de fechar o visualizador.
+          onOpenAutoFocus={(e) => {
+            e.preventDefault()
+            ;(e.currentTarget as HTMLElement).focus()
+          }}
+        >
           {viewing && (
             <>
               <DialogHeader>
